@@ -1,0 +1,63 @@
+ΨΦ HISTOIRE.
+
+de la quantit& n, ὅ( continuet cette seduction jusqua ce que
+tant p quc q soit plus petit que n. Ainfi cette multitude de
+
+cas st: reduira pour chaque expofimt n ·.“ι un nombre fort mo-
+dique & determine. ·
+
+Le principe qui sert de fondement ὲ tontes ces com-
+
+paraiffins, ὅ( que M. Euler n'a pas mauqu& dc demontrcr'To'-
+lidement est que
+
+[s x‘'··¹3x .r¹²*¹hx
+.. — ons„ —]›‹
+Jl(1—x’¹)'¹“'⁶ n n a
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[s‘² xum-‘DL ons„ fab-2, ]:
+V(1—x'²)'‘ lf(1—-x’¹>'¹-⁰-b
+
+[s'¹ ὒέ-ς ons,¹ .r‘-¹r3nx—n1:]x
+
+[[ιῖ<Η“Ῑ-“χωέκ Ουχῖωζ-ἑὶιὲκ ].
+ls(1—x'¹)'²-¹’ ls(1—x'²)'²-⁶‘“⁶
+
+rapport quc 1³Aureur reprksentc ainsi:
+(adt)(a4b2c):(a,c·)(a÷c‚b)‚
+ὅ( ce symbolisme lui facilitc infiniment lcs comparaisons ιὶ faire.
+
+M. Eulcr parcourt donc succcffwemcnt fix cas differens,
+en commcncant par a—†-b.-3 ἃ finiss'ant par a-i-b:9‚
+ce qui lui donne sept classes dc valcurs qui comprcnncnt cn
+tout 39 sormulcs. {insuite il examine la formale generale pro·
+posce selon les differentes valcurz dc 1·cxposant η, depuisnzg
+οᾗιιςηιιῆ n :t 7, co qui forme cinq ordrcs diffe'rcns dc rapports
+qui fimrniffcut cn tout 50 formales intest-,talen parmi lesquel-
+les il y a dc sort rcmarquablcs. On y trouve par exemplo
+les valeurs des produits suivans: ὓ
+
+s x
+

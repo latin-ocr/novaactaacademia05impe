@@ -1,0 +1,40 @@
+⁶4 HIST01RE.
+
+111.
+
+Noua demonstratio quod euolutio potestatum binomii
+Newtoniana etiam pro exponentibus sraelis valeat.
+
+Austore L. Eulero. Pag. 52.
+
+Tout le monde suit combienles demonstrations quon
+a donnees jusquzi present du Theoreme binomial de Newton
+laiffcnt encore ’.ἰ desirer pour les cas οὺ l'exposant n'est pas
+un nombre entier positis. Plufieurs Geometras ont nithe,
+avec plus ou moins de succes, de remedier au defaut de ge-
+neralite de cette veriti: fi elementaire. Notre auteur lui m&-
+me en avoit donne autrefois une demonstration deduite de 1⁷A-
+nalyse infinitefimale; mais comme cette Analyse est fondee elle
+meme sur le Theorcme binomial, ce n'est pas sans raison
+qu'ou lui a reproche une petition de principe, &c M. Euler
+a avone lui meme ce desunt, en donnant dans le xlx‘. Vo-
+lume des Noux‘eaux Commentaires une demonstration libre d‘in·
+duffion aussl bien que de toute consideration qui ne soit pas
+clementaire. Cependant il ne paroit pas avo'ir 6τέ entierement
+satisfuit de cette tentative5 car il revient :i la charge dans le
+memoire que nous avons sous les yeux, ὃ( il y re'ussit ὰ
+nous donner une demonstration beaucoup plus parfaite du
+Theorc'me de Newton. Voici la marche de son raisonncmenr.
+
+On peut hardiment supposer:
+
+(ι -}-x)'²: x -f-Ax-†— Bx2-4-Cx3—k‘ ἃς.
+
+(ι —†-.r‘)'²·⁴'¹ 1 4- A‘ x -ἦ- B'x¹ -i- C‘ x³ -ἱ- ἃς.
+(c'cst 131 lc seul point de la demonstrationi qu‘il feroit difficile
+dc rendre affez clair aux commcncans). Deli ii suit que
+A‘—A:1;Bf—B:2x;1)‘—1)-—.C; .....
+Ns—NzM. Or soit N Ξ 271, ἃ on a &zazoa-m),
+
+donc
+

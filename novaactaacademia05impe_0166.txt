@@ -1,0 +1,39 @@
+.'.-—-·-·-..- (56) Ξ
+
+Lemma ΙΙΙ.
+
+ς. 9. si fuerit N: an(n— 1)(n— 2), erit
+N‘:a(n—4- 1)n(n— ι’), ideoque
+N‘-——N:-:.3 an(n—1)
+'tta vt hoc casu fit M: 3 an(n— 1). Hinc igitur viciffim
+concludimus ‚ quoties fuerit M Σ α n (n — 1 )‚ certe fore
+
+N=3an(n—-1)(n--2).*
+
+Lemma IV. ·
+
+§.10. Si suerit Nzan(n—1)(n-2)(n—3)‚
+crit N‘ : α (n -4- 1 ) n (n — 1) (n — 2), quarum ambarum sor-
+mularum fastor communis eil· an(n—— 1)(n--'2), ex quo
+crit Ns—Nzan(n—1)(n-2)[(n-1)-—(n—3>]
+ideoque N‘—N :4oen(n—-— 1)(n-- 2):M; atque hinc
+xicissim concludimus, quotics suerithan(n-—1)(n-—2),
+tum certe fon-c szan(n—1)(n—2)(n-—-3).
+
+Lemma V.
+
+ξ. 1 ι. Si fuerit N ·; α n(n—·1)<n—2)(n-3)(n-4),
+crit N' :z α st: —4- 1) n (n -—— ι) (η - 2) (n —- 3) hincque col·
+ligitur fore bis—N z M: 5 αη (γι-,1)(η- 2)(’1-3),
+cx quo xicissim concludimus, quotics suerit
+
+Μ ,Ξ a η (ῑι-- 1> (n — 2¹)(x11— 3)
+tum semper fore ,
+
+N Ξῖ.- {a71(1.⁷‡--— ι’, ξη -- 2] (n - 3) sn — 4).
+
+ς. 12. Hinc iam (Etis luculenter perspicitur, su suerit
+M ΖΓ. a ι.- “n μ* 1 , ; ς’, 11- ἦν,
+
+tum
+

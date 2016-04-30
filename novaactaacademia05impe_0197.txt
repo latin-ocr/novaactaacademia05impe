@@ -1,0 +1,49 @@
+·-—-—-· (87) ———-—-··
+
+his enim inuentis innumerabilia Theoremata condi poterunt,
+quibus vniuersa Analyfis non mediocriter locupletati erit cen-
+
+scnda. ⁴
+
+⁴§. 2. Quoniam igitur hoc modo pro quolibet nume-
+ro n ambae litterae p et q infinitos valores recipere possunt,
+ante omnia hic obseruari conuenit, omnes hos innumerabiles
+casu-s semper ad numerum finitum* reuocari'poss‘e. Quantumuis
+enim magni numeri pro litteris p et q accipiantur„ eos casus
+semper ad alios reducere licet, in quibus numeri petq quan-
+titate n futuri sint diminuti. Hoc igitur modo omnes huius-
+modi casus tandem* eo redigi, poterunt, vt ambo numeri p ‘et
+q infra exponentem n deprimantur3 vnde' pro 'quolibet nume-
+ro n eos tantum casus considerasse sufficiet, quibus litterae p
+et q minores valores recipiant quam n, vel saltem hunc li—
+mitem non superent. Hoc igitur· modo pro quouis numero n
+multitudo casuum ., qui in computum veniunt, et quos inter
+se comparari oportet, prorsus erit determinata.
+
+ᾗ. 3. Quemadmodum autem ista reduc‘fio litterarum p
+et q ad numeros continuo minores institui debeat, quamquam
+id 1atis in vulgus est notum ‚ tamen ad formulam praesentem
+accommodaffe iuuabit. statuatur scilicet haec formula alge-
+braica: xP (1 - xnyg Ξ V, eritque
+
+IVzplx-l—g-lQ—xn),
+hinc differentiando .
+
+&V *pax—qxflffl&x—pr—(p-mqflnbx
+
+ 
+
+V x 1 —- κη x (Ι —-— κη)
+vbi fi per V multiplicemus ac ·per1 partes integremus, orie-
+tur ista aequatio:
+
+ 
+
+ 
+
+ 
+
+2
+
+V:
+
